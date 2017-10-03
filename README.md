@@ -4,6 +4,4 @@ My undergraduate project on implementing chaotic carrier waveform into informati
 
 Credits for Dr. Andrew Fish, who took me on this project and greatly broadened my horizon.
 
-The complete paper is available on researchgate.com [here](https://www.researchgate.net/publication/315760799_Simulation_Model_on_Chaotic_Asynchronous_Transmitter_and_Receiver).
-
-
+The complete paper is available on researchgate.com [here](https://github.com/amandazhuyilan/Boston-Post-Rd-Chaos-Simulation/blob/master/msw_usltr_format_Simulation_Chaos.pdf)
